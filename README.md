@@ -1,0 +1,6 @@
+- 👋 Olá, sou @luizaschmalz
+- 👀 Estou interessado em aprender Fluig/API-REST,Alngular PO-IO
+- 🌱 Atualmente estou aprendendo Fluig e Good Data
+- 💞️ Estou procurando colaborar em criação de projetos
+- 📫 luiza.schmalz@gmail.com   
+- ⚡ Curiosidade: Adoro aprender
